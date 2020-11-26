@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 202011261547.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="5.17459in" height="4.5742in"
+		viewBox="0 0 372.571 329.342" xml:space="preserve" color-interpolation-filters="sRGB" class="st7">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:#000000;font-family:宋体;font-size:0.833336em}
+		.st3 {font-family:Times New Roman;font-size:1em}
+		.st4 {font-size:1em}
+		.st5 {marker-end:url(#mrkr2-82);marker-start:url(#mrkr2-80);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.75}
+		.st6 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.6563245823389}
+		.st7 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend2">
+			<path d="M 1 1 L 0 0 L 1 -1 L 1 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr2-80" class="st6" v:arrowType="2" v:arrowSize="0" v:setback="1.39273" refX="1.3927272727273" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend2" transform="scale(1.5236363636364) "/>
+		</marker>
+		<marker id="mrkr2-82" class="st6" v:arrowType="2" v:arrowSize="0" v:setback="1.52364" refX="-1.5236363636364" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend2" transform="scale(-1.5236363636364,-1.5236363636364) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="连接线" v:index="0"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(18.12,-18.12)">
+			<title>矩形</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<rect x="0" y="268.681" width="336.331" height="60.6614" class="st1"/>
+		</g>
+		<g id="shape2-3" v:mID="2" v:groupContext="shape" transform="translate(18.12,-62.4822)">
+			<title>矩形.2</title>
+			<desc>底层硬件</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="321.193" width="56.7" height="16.2992"/>
+			<rect x="0" y="313.043" width="56.6929" height="16.2992" class="st1"/>
+			<text x="8.35" y="324.19" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>底层硬件</text>		</g>
+		<g id="shape3-6" v:mID="3" v:groupContext="shape" transform="translate(25.2066,-28.1741)">
+			<title>矩形.3</title>
+			<desc>串口 IO</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="30.7559" cy="315.585" width="61.52" height="27.5138"/>
+			<rect x="0" y="301.829" width="61.5118" height="27.5138" class="st1"/>
+			<text x="20.76" y="312.88" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>串口<v:newlineChar/><tspan
+						x="25.48" dy="1.229em" class="st3">IO</tspan></text>		</g>
+		<g id="shape4-10" v:mID="4" v:groupContext="shape" transform="translate(96.0728,-28.1741)">
+			<title>矩形.4</title>
+			<desc>并口 IO</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="30.7559" cy="315.585" width="61.52" height="27.5138"/>
+			<rect x="0" y="301.829" width="61.5118" height="27.5138" class="st1"/>
+			<text x="20.76" y="312.88" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>并口<v:newlineChar/><tspan
+						x="25.48" dy="1.229em" class="st3">IO</tspan></text>		</g>
+		<g id="shape5-14" v:mID="5" v:groupContext="shape" transform="translate(166.939,-28.1741)">
+			<title>矩形.5</title>
+			<desc>键盘 I</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="30.7559" cy="315.585" width="61.52" height="27.5138"/>
+			<rect x="0" y="301.829" width="61.5118" height="27.5138" class="st1"/>
+			<text x="20.76" y="312.88" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>键盘<v:newlineChar/><tspan
+						x="29.09" dy="1.229em" class="st3">I</tspan></text>		</g>
+		<g id="shape6-18" v:mID="6" v:groupContext="shape" transform="translate(237.805,-28.1741)">
+			<title>矩形.6</title>
+			<desc>显示设备CGA/LPT O</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="55.7008" cy="315.585" width="111.41" height="27.5138"/>
+			<rect x="0" y="301.829" width="111.402" height="27.5138" class="st1"/>
+			<text x="4.87" y="312.88" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>显示设备（<tspan
+						class="st3">CGA</tspan><tspan class="st3">/</tspan><tspan class="st3">LPT</tspan>）<v:newlineChar/><tspan
+						x="52.09" dy="1.229em" class="st3">O</tspan></text>		</g>
+		<g id="shape7-25" v:mID="7" v:groupContext="shape" transform="translate(18.12,-96.6397)">
+			<title>矩形.7</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<rect x="0" y="268.681" width="336.331" height="60.6614" class="st1"/>
+		</g>
+		<g id="shape8-27" v:mID="8" v:groupContext="shape" transform="translate(18.12,-141.002)">
+			<title>矩形.8</title>
+			<desc>硬件驱动包含初始化及读写/中断操作</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="95.6693" cy="321.193" width="191.34" height="16.2992"/>
+			<rect x="0" y="313.043" width="191.339" height="16.2992" class="st1"/>
+			<text x="8.17" y="324.19" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>硬件驱动：包含初始化及读写/中断操作</text>		</g>
+		<g id="shape9-30" v:mID="9" v:groupContext="shape" transform="translate(25.2066,-106.694)">
+			<title>矩形.9</title>
+			<desc>串口 IO</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="30.7559" cy="315.585" width="61.52" height="27.5138"/>
+			<rect x="0" y="301.829" width="61.5118" height="27.5138" class="st1"/>
+			<text x="20.76" y="312.88" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>串口<v:newlineChar/><tspan
+						x="25.48" dy="1.229em" class="st3">IO</tspan></text>		</g>
+		<g id="shape10-34" v:mID="10" v:groupContext="shape" transform="translate(96.0728,-106.694)">
+			<title>矩形.10</title>
+			<desc>并口 IO</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="30.7559" cy="315.585" width="61.52" height="27.5138"/>
+			<rect x="0" y="301.829" width="61.5118" height="27.5138" class="st1"/>
+			<text x="20.76" y="312.88" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>并口<v:newlineChar/><tspan
+						x="25.48" dy="1.229em" class="st3">IO</tspan></text>		</g>
+		<g id="shape11-38" v:mID="11" v:groupContext="shape" transform="translate(166.939,-106.694)">
+			<title>矩形.11</title>
+			<desc>键盘 I</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="30.7559" cy="315.585" width="61.52" height="27.5138"/>
+			<rect x="0" y="301.829" width="61.5118" height="27.5138" class="st1"/>
+			<text x="20.76" y="312.88" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>键盘<v:newlineChar/><tspan
+						x="29.09" dy="1.229em" class="st3">I</tspan></text>		</g>
+		<g id="shape12-42" v:mID="12" v:groupContext="shape" transform="translate(237.805,-106.694)">
+			<title>矩形.12</title>
+			<desc>显示设备CGA/LPT O</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="55.7008" cy="315.585" width="111.41" height="27.5138"/>
+			<rect x="0" y="301.829" width="111.402" height="27.5138" class="st1"/>
+			<text x="4.87" y="312.88" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>显示设备（<tspan
+						class="st3">CGA</tspan><tspan class="st3">/</tspan><tspan class="st3">LPT</tspan>）<v:newlineChar/><tspan
+						x="52.09" dy="1.229em" class="st3">O</tspan></text>		</g>
+		<g id="shape13-49" v:mID="13" v:groupContext="shape" transform="translate(18.12,-174.592)">
+			<title>矩形.13</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<rect x="0" y="268.681" width="336.331" height="60.6614" class="st1"/>
+		</g>
+		<g id="shape14-51" v:mID="14" v:groupContext="shape" transform="translate(18.12,-218.955)">
+			<title>矩形.14</title>
+			<desc>设备无关代码</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="40.252" cy="321.193" width="80.51" height="16.2992"/>
+			<rect x="0" y="313.043" width="80.5039" height="16.2992" class="st1"/>
+			<text x="10.25" y="324.19" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>设备无关代码</text>		</g>
+		<g id="shape15-54" v:mID="15" v:groupContext="shape" transform="translate(25.2066,-184.647)">
+			<title>矩形.15</title>
+			<desc>控制台中断</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="30.7559" cy="315.585" width="61.52" height="27.5138"/>
+			<rect x="0" y="301.829" width="61.5118" height="27.5138" class="st1"/>
+			<text x="5.76" y="318.88" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>控制台中断</text>		</g>
+		<g id="shape16-57" v:mID="16" v:groupContext="shape" transform="translate(96.0728,-184.647)">
+			<title>矩形.16</title>
+			<desc>控制台读字符</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="30.7559" cy="315.585" width="61.52" height="27.5138"/>
+			<rect x="0" y="301.829" width="61.5118" height="27.5138" class="st1"/>
+			<text x="5.76" y="312" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>控制台读字<tspan x="25.76"
+						dy="1.287em" class="st4">符</tspan></text>		</g>
+		<g id="shape17-61" v:mID="17" v:groupContext="shape" transform="translate(166.939,-184.647)">
+			<title>矩形.17</title>
+			<desc>控制台写字符</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="30.7559" cy="315.585" width="61.52" height="27.5138"/>
+			<rect x="0" y="301.829" width="61.5118" height="27.5138" class="st1"/>
+			<text x="5.76" y="312" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>控制台写字<tspan x="25.76"
+						dy="1.287em" class="st4">符</tspan></text>		</g>
+		<g id="shape18-65" v:mID="18" v:groupContext="shape" transform="translate(237.805,-184.647)">
+			<title>矩形.18</title>
+			<desc>控制台初始化</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="55.7008" cy="315.585" width="111.41" height="27.5138"/>
+			<rect x="0" y="301.829" width="111.402" height="27.5138" class="st1"/>
+			<text x="25.7" y="318.88" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>控制台初始化</text>		</g>
+		<g id="shape19-68" v:mID="19" v:groupContext="shape" transform="translate(18.12,-250.561)">
+			<title>矩形.19</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<rect x="0" y="268.681" width="336.331" height="60.6614" class="st1"/>
+		</g>
+		<g id="shape20-70" v:mID="20" v:groupContext="shape" transform="translate(18.12,-294.923)">
+			<title>矩形.20</title>
+			<desc>顶层封装IO</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="40.252" cy="321.193" width="80.51" height="16.2992"/>
+			<rect x="0" y="313.043" width="80.5039" height="16.2992" class="st1"/>
+			<text x="14.98" y="324.48" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>顶层封装<tspan
+						class="st3">IO</tspan></text>		</g>
+		<g id="shape25-74" v:mID="25" v:groupContext="shape" v:layerMember="0" transform="translate(179.199,-78.7814)">
+			<title>动态连接线</title>
+			<path d="M7.09 325.51 L7.09 325.15 L7.09 315.67" class="st5"/>
+		</g>
+		<g id="shape26-83" v:mID="26" v:groupContext="shape" v:layerMember="0" transform="translate(179.199,-157.301)">
+			<title>动态连接线.26</title>
+			<path d="M7.09 325.51 L7.09 325.15 L7.09 316.24" class="st5"/>
+		</g>
+		<g id="shape27-90" v:mID="27" v:groupContext="shape" v:layerMember="0" transform="translate(179.199,-235.254)">
+			<title>动态连接线.27</title>
+			<path d="M7.09 325.51 L7.09 325.15 L7.09 318.23" class="st5"/>
+		</g>
+		<g id="shape28-97" v:mID="28" v:groupContext="shape" transform="translate(122.74,-264.038)">
+			<title>矩形.28</title>
+			<desc>读函数</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="30.7559" cy="315.585" width="61.52" height="27.5138"/>
+			<rect x="0" y="301.829" width="61.5118" height="27.5138" class="st1"/>
+			<text x="15.76" y="318.88" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>读函数</text>		</g>
+		<g id="shape29-100" v:mID="29" v:groupContext="shape" transform="translate(193.606,-264.038)">
+			<title>矩形.29</title>
+			<desc>写函数</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="30.7559" cy="315.585" width="61.52" height="27.5138"/>
+			<rect x="0" y="301.829" width="61.5118" height="27.5138" class="st1"/>
+			<text x="15.76" y="318.88" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>写函数</text>		</g>
+	</g>
+</svg>
