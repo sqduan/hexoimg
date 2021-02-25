@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 structureOfComputer.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="2.56947in" height="1.4305in"
+		viewBox="0 0 185.002 102.996" xml:space="preserve" color-interpolation-filters="sRGB" class="st8">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:#000000;font-family:Times New Roman;font-size:0.833336em}
+		.st3 {font-family:宋体;font-size:1em}
+		.st4 {fill:#000000;font-family:宋体;font-size:0.833336em}
+		.st5 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st6 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st7 {fill:#000000;font-family:宋体;font-size:1.00001em}
+		.st8 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(110.926,-70.9861)">
+			<title>矩形</title>
+			<desc>CPU</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="21.2598" cy="87.051" width="42.52" height="31.8898"/>
+			<rect x="0" y="71.1061" width="42.5197" height="31.8898" class="st1"/>
+			<text x="11.53" y="90.05" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>CPU</text>		</g>
+		<g id="shape3-4" v:mID="3" v:groupContext="shape" transform="translate(49.9813,-0.12)">
+			<title>矩形.3</title>
+			<desc>IO设备</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="21.2598" cy="87.051" width="42.52" height="31.8898"/>
+			<rect x="0" y="71.1061" width="42.5197" height="31.8898" class="st1"/>
+			<text x="5.98" y="90.34" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>IO<tspan class="st3">设备</tspan></text>		</g>
+		<g id="shape4-8" v:mID="4" v:groupContext="shape" transform="translate(139.273,-0.12)">
+			<title>矩形.4</title>
+			<desc>内存</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="21.2598" cy="87.051" width="42.52" height="31.8898"/>
+			<rect x="0" y="71.1061" width="42.5197" height="31.8898" class="st1"/>
+			<text x="11.26" y="90.34" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>内存</text>		</g>
+		<g id="shape5-11" v:mID="5" v:groupContext="shape" transform="translate(-31.7548,70.9861) rotate(-90)">
+			<title>工作表.5</title>
+			<path d="M0 103 L21.97 103" class="st5"/>
+		</g>
+		<g id="shape6-14" v:mID="6" v:groupContext="shape" transform="translate(42.8947,-53.9783)">
+			<title>工作表.6</title>
+			<path d="M0 103 L141.73 103" class="st5"/>
+		</g>
+		<g id="shape7-17" v:mID="7" v:groupContext="shape" transform="translate(235.182,32.0098) rotate(90)">
+			<title>工作表.7</title>
+			<path d="M0 103 L17.01 103" class="st5"/>
+		</g>
+		<g id="shape8-20" v:mID="8" v:groupContext="shape" transform="translate(57.5366,70.9861) rotate(-90)">
+			<title>工作表.8</title>
+			<path d="M0 103 L21.97 103" class="st5"/>
+		</g>
+		<g id="shape10-23" v:mID="10" v:groupContext="shape" transform="translate(0.375,-43.8995)">
+			<title>工作表.10</title>
+			<desc>总线</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="21.2598" cy="92.9959" width="42.52" height="20"/>
+			<rect x="0" y="82.9959" width="42.5197" height="20" class="st6"/>
+			<text x="9.26" y="96.6" class="st7" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>总线</text>		</g>
+	</g>
+</svg>
