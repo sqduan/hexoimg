@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 nice.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="1.97257in" height="1.25633in"
+		viewBox="0 0 142.025 90.4556" xml:space="preserve" color-interpolation-filters="sRGB" class="st4">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:#000000;font-family:宋体;font-size:0.833336em}
+		.st3 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st4 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape20-1" v:mID="20" v:groupContext="shape" transform="translate(0.375,-21.6348)">
+			<title>矩形</title>
+			<desc>-20 - 0</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="66.8626" width="70.87" height="47.1859"/>
+			<rect x="0" y="43.2697" width="70.8661" height="47.1859" class="st1"/>
+			<text x="17.93" y="69.86" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>-20 - 0</text>		</g>
+		<g id="shape21-4" v:mID="21" v:groupContext="shape" transform="translate(70.7839,-21.6348)">
+			<title>矩形.21</title>
+			<desc>0 - 20</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="66.8626" width="70.87" height="47.1859"/>
+			<rect x="0" y="43.2697" width="70.8661" height="47.1859" class="st1"/>
+			<text x="20.43" y="69.86" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>0 - 20</text>		</g>
+		<g id="shape23-7" v:mID="23" v:groupContext="shape" transform="translate(31.6933,-0.375)">
+			<title>工作表.23</title>
+			<desc>谦让值</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="39.081" cy="81.9123" width="78.17" height="17.0866"/>
+			<rect x="0" y="73.369" width="78.1621" height="17.0866" class="st3"/>
+			<text x="24.08" y="84.91" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>谦让值</text>		</g>
+		<g id="shape25-10" v:mID="25" v:groupContext="shape" transform="translate(0.375,-72.994)">
+			<title>工作表.25</title>
+			<desc>谦让</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="81.9123" width="70.87" height="17.0866"/>
+			<rect x="0" y="73.369" width="70.8661" height="17.0866" class="st3"/>
+			<text x="25.43" y="84.91" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>谦让</text>		</g>
+		<g id="shape26-13" v:mID="26" v:groupContext="shape" transform="translate(70.7839,-72.994)">
+			<title>工作表.26</title>
+			<desc>夺取</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="81.9123" width="70.87" height="17.0866"/>
+			<rect x="0" y="73.369" width="70.8661" height="17.0866" class="st3"/>
+			<text x="25.43" y="84.91" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>夺取</text>		</g>
+	</g>
+</svg>
