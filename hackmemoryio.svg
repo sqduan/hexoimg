@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 hackmemoryio.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="2.23479in" height="2.26711in"
+		viewBox="0 0 160.905 163.232" xml:space="preserve" color-interpolation-filters="sRGB" class="st8">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#fee599;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:#000000;font-family:Times New Roman;font-size:0.833336em}
+		.st3 {font-size:1em}
+		.st4 {fill:#a5a5a5;font-size:1em}
+		.st5 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st6 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st7 {fill:#a5a5a5;font-family:Times New Roman;font-size:1.00001em}
+		.st8 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(91.5597,-70.9861)">
+			<title>矩形</title>
+			<desc>Data memory (16K)</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="34.6125" cy="127.799" width="69.23" height="70.8661"/>
+			<rect x="0" y="92.366" width="69.225" height="70.8661" class="st1"/>
+			<text x="25.17" y="118.8" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Data<v:newlineChar/><tspan
+						x="17.95" dy="1.2em" class="st3">memory<v:newlineChar/></tspan><tspan x="22.67" dy="1.2em" class="st4">(</tspan><tspan
+						class="st4">16</tspan><tspan class="st4">K</tspan><tspan class="st4">)</tspan></text>		</g>
+		<g id="shape2-9" v:mID="2" v:groupContext="shape" transform="translate(91.5597,-28.4665)">
+			<title>矩形.2</title>
+			<desc>Screen memory map (16K)</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="34.6125" cy="141.972" width="69.23" height="42.5197"/>
+			<rect x="0" y="120.712" width="69.225" height="42.5197" class="st1"/>
+			<text x="21.01" y="132.97" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Screen <tspan
+						x="8.09" dy="1.2em" class="st3">memory map<v:newlineChar/></tspan><tspan x="22.67" dy="1.2em" class="st4">(</tspan><tspan
+						class="st4">16</tspan><tspan class="st4">K</tspan><tspan class="st4">)</tspan></text>		</g>
+		<g id="shape3-17" v:mID="3" v:groupContext="shape" transform="translate(91.5597,-0.12)">
+			<title>矩形.3</title>
+			<desc>Keyboard</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="34.6125" cy="149.059" width="69.23" height="28.3465"/>
+			<rect x="0" y="134.886" width="69.225" height="28.3465" class="st1"/>
+			<text x="14.9" y="152.06" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Keyboard</text>		</g>
+		<g id="shape4-20" v:mID="4" v:groupContext="shape" transform="translate(91.5597,-141.852)">
+			<title>矩形.4</title>
+			<desc>Hack RAM</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="34.6125" cy="152.602" width="69.23" height="21.2598"/>
+			<rect x="0" y="141.972" width="69.225" height="21.2598" class="st5"/>
+			<text x="11.42" y="155.6" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Hack RAM</text>		</g>
+		<g id="shape5-23" v:mID="5" v:groupContext="shape" transform="translate(74.3562,-131.852)">
+			<title>工作表.5</title>
+			<desc>0</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="8.34811" cy="153.232" width="16.7" height="20"/>
+			<rect x="0" y="143.232" width="16.6962" height="20" class="st6"/>
+			<text x="5.35" y="156.83" class="st7" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>0</text>		</g>
+		<g id="shape6-26" v:mID="6" v:groupContext="shape" transform="translate(51.6509,-60.9861)">
+			<title>工作表.6</title>
+			<desc>16384</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="19.7008" cy="153.232" width="39.41" height="20"/>
+			<rect x="0" y="143.232" width="39.4016" height="20" class="st6"/>
+			<text x="4.7" y="156.83" class="st7" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>16384</text>		</g>
+		<g id="shape7-29" v:mID="7" v:groupContext="shape" transform="translate(51.6509,-18.4665)">
+			<title>工作表.7</title>
+			<desc>24576</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="19.7008" cy="153.232" width="39.41" height="20"/>
+			<rect x="0" y="143.232" width="39.4016" height="20" class="st6"/>
+			<text x="4.7" y="156.83" class="st7" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>24576</text>		</g>
+		<g id="shape8-32" v:mID="8" v:groupContext="shape" transform="translate(0.12,-59.6476)">
+			<title>矩形.8</title>
+			<desc>SCREEN</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="152.602" width="51.03" height="21.2598"/>
+			<rect x="0" y="141.972" width="51.0236" height="21.2598" class="st5"/>
+			<text x="8.68" y="155.6" class="st2" v:langID="2052"><v:paragraph v:horizAlign="2"/><v:tabList/>SCREEN</text>		</g>
+		<g id="shape9-35" v:mID="9" v:groupContext="shape" transform="translate(0.12,-18.4665)">
+			<title>矩形.9</title>
+			<desc>KBD</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="152.602" width="51.03" height="21.2598"/>
+			<rect x="0" y="141.972" width="51.0236" height="21.2598" class="st5"/>
+			<text x="25.91" y="155.6" class="st2" v:langID="2052"><v:paragraph v:horizAlign="2"/><v:tabList/>KBD</text>		</g>
+	</g>
+</svg>
